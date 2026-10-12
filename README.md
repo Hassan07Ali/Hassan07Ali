@@ -6,7 +6,7 @@
 
 ---
 
-> 🌱 **Currently learning:** * AI agents and Automation*
+> 🌱 **Currently learning:** AI agents and Automation
 > 
 > 📫 **Reach me:** alii.hassan.8025@gmail.com
 > 
