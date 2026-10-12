@@ -7,7 +7,9 @@
 ---
 
 > 🌱 **Currently learning:** * AI agents and Automation*
+> 
 > 📫 **Reach me:** alii.hassan.8025@gmail.com
+> 
 > ⚡ **Fun fact:** I get the idea to learn something new from **Instagram reels**
 
 ---
