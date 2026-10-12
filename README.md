@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm **Hassan Ali** 👋</h1>
+<h1 align="center">Hi, I'm Hassan Ali 👋</h1>
 
 <p align="center">
   <em>BS AI student at <strong>FAST-NUCES, Islamabad</strong></em>
@@ -6,12 +6,8 @@
 
 ---
 
-> 🌱 **Currently learning:** *NLP and AI agents*
->
+> 🌱 **Currently learning:** * AI agents and Automation*
 > 📫 **Reach me:** alii.hassan.8025@gmail.com
->
-> 😄 **Pronouns:** ...
->
 > ⚡ **Fun fact:** I get the idea to learn something new from **Instagram reels**
 
 ---
